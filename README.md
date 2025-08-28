@@ -14,7 +14,7 @@ This project is designed for beginners and demonstrates the use of **loops**, **
 ## How to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/NumberGuessingGame.git
+   git clone https://github.com/TanujaKhandve/FYJava-GuessNumberGame.git
 
 2.**Navigate to the project folder:**
 
